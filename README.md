@@ -1,16 +1,23 @@
-# ungshopfirebase
+## คอร์ส เขียนแอพสั่งอาหาร ออนไลด์ ผ่าน Firebase
 
-A new Flutter project.
+[![screenshot-1591173767082.jpg](https://i.postimg.cc/nc9YgRwv/screenshot-1591173767082.jpg)](https://postimg.cc/0bxwJfvQ)
 
-## Getting Started
+##  คอร์ส สอน Flutter ตัวต่อต่อ เลือก หัวข้อเรียนได้
+### Workshop With มาสเตอร์ อึ่ง
 
-This project is a starting point for a Flutter application.
+## ต้องการรายละเอียดเพิ่ม หรือ ต้องการ ปรึกษาการทำ โปรเจคแอนดรอยด์
+### ติดต่อมาสเตอร์ อึ่ง เลย ที่
 
-A few resources to get you started if this is your first Flutter project:
+[![IMG_6065.jpg](https://s26.postimg.cc/kajrs6fbt/IMG_6065.jpg)](https://postimg.cc/image/7j5llo5jp/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://www.facebook.com/android.Training.by.EWTC
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http://line.me/ti/p/XI-Ksj7Jzq
+
+[![Line-_QR.jpg](https://s26.postimg.cc/dwuoozv15/Line-_QR.jpg)](https://postimg.cc/image/mrvizijth/)
+
+http://androidthai.in.th
+
+phrombutr@gmail.com
+
+Mobile 0818595309
