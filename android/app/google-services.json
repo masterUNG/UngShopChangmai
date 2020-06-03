@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621070531428",
+    "firebase_url": "https://ungshopfirebase.firebaseio.com",
+    "project_id": "ungshopfirebase",
+    "storage_bucket": "ungshopfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621070531428:android:e3012289891f055667d871",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungshopfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621070531428-13qkdhgu8s8sgc466kf5uoo7kvt9iemf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eRpFtwnilOg41lF4LyznDa_UYA91pJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621070531428-13qkdhgu8s8sgc466kf5uoo7kvt9iemf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
